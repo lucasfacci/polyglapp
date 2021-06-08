@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Polyglapp</string>
+    <string name="name">Nome</string>
+    <string name="person">Person</string>
+    <string name="instruction">Insira o seu nome:</string>
+    <string name="submit">Enviar</string>
+    <string name="question">%1$s, qual o significado da palavra abaixo?</string>
+    <string name="word">Palavra</string>
+    <string name="option">Opção</string>
+    <string name="pontuation">Pontuação final:</string>
+    <string name="result">%1$s</string>
+    <string name="restart">Recomeçar</string>
+</resources>
